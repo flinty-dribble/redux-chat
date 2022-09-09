@@ -3,7 +3,7 @@ name: Deploy to GithubPages
 on:
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   deploy-to-gh-pages:
