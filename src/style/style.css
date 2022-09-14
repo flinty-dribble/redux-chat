@@ -1,3 +1,10 @@
 .smiles {
   display: inline-block;
 }
+
+.message {
+  border-style: solid;
+  border-color: coral;
+  margin: 5px;
+  padding: 5px;
+}
