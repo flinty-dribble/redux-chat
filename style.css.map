@@ -1,1 +1,1 @@
-{"version":3,"file":"style.css","mappings":"AAAA,QACE,oBACF","sources":["webpack://js2/./src/style/style.css"],"sourcesContent":[".smiles {\n  display: inline-block;\n}\n"],"names":[],"sourceRoot":""}
+{"version":3,"file":"style.css","mappings":"AAAA,QACE,oBACF,CAEA,SAEE,kBAAmB,CADnB,kBAAmB,CAEnB,UAAW,CACX,WACF","sources":["webpack://js2/./src/style/style.css"],"sourcesContent":[".smiles {\n  display: inline-block;\n}\n\n.message {\n  border-style: solid;\n  border-color: coral;\n  margin: 5px;\n  padding: 5px;\n}\n"],"names":[],"sourceRoot":""}
